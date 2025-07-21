@@ -28,7 +28,7 @@ With the increasing demand for dynamic, real-time, and scalable web experiences,
 
 ### 1. System Architecture
 
-- **Frontend:** React (with hooks, context API for state management, React.memo and lazy loading for performance)[^1][^2][^3].
+- **Frontend:** React (with hooks, context API for state management, React.memo and lazy loading for performance)- [^1]- [^2][^3].
 - **Backend:** Node.js with Express, using WebSockets (e.g., Socket.IO) for real-time bidirectional communication[^4][^5].
 - **Database:** Redis for fast in-memory data storage; MongoDB for persistence.
 
@@ -79,42 +79,42 @@ This topic is contemporary, highly practical, and covers both theoretical and ha
 
 <div style="text-align: center">⁂</div>
 
-[^1]: https://maybe.works/blogs/react-performance-optimization-techniques Perfomance Optimization Techniques
+- [^1]: https://maybe.works/blogs/react-performance-optimization-techniques Perfomance Optimization Techniques
 
-[^2]: https://hackernoon.com/supercharge-your-react-applications-7-best-practices-and-techniques Best Practices
+- [^2]: https://hackernoon.com/supercharge-your-react-applications-7-best-practices-and-techniques Best Practices
 
-[^3]: https://dev.to/ra1nbow1/supercharging-react-performance-best-tips-and-tools-4ff0 Best Tips
+- [^3]: https://dev.to/ra1nbow1/supercharging-react-performance-best-tips-and-tools-4ff0 Best Tips
 
-[^4]: https://sam-solutions.com/blog/react-and-node-js-top-technologies/ Blog on React & Node
+- [^4]: https://sam-solutions.com/blog/react-and-node-js-top-technologies/ Blog on React & Node
 
-[^5]: https://raygun.com/blog/improve-node-performance/ Node performance
+- [^5]: https://raygun.com/blog/improve-node-performance/ Node performance
 
-[^6]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932790 Papers
+- [^6]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932790 Papers
 
-[^7]: http://ijircce.com/admin/main/storage/app/pdf/cHspQUrBMBfeUrsWZr40h43CUDnr4J8ois28Y6jj.pdf Storage.pdf
+- [^7]: http://ijircce.com/admin/main/storage/app/pdf/cHspQUrBMBfeUrsWZr40h43CUDnr4J8ois28Y6jj.pdf Storage.pdf
 
-[^8]: https://flatlogic.com/blog/top-15-react-app-ideas-for-web-developer-in-2022/ React App Ideas
+- [^8]: https://flatlogic.com/blog/top-15-react-app-ideas-for-web-developer-in-2022/ React App Ideas
 
-[^9]: https://www.mdpi.com/2673-4591/66/1/27 MDPI
+- [^9]: https://www.mdpi.com/2673-4591/66/1/27 MDPI
 
-[^10]: https://www.linearloop.io/blog/react-and-nodejs-a-powerful-combination-for-web-application-development MERN Stack combination
+- [^10]: https://www.linearloop.io/blog/react-and-nodejs-a-powerful-combination-for-web-application-development MERN Stack combination
 
-[^11]: https://ijcrt.org/papers/IJCRT2307133.pdf Papers
+- [^11]: https://ijcrt.org/papers/IJCRT2307133.pdf Papers
 
-[^12]: https://kuey.net/index.php/kuey/article/view/3035 Mern(Mongodb , Express-Js, React-Js, Node-Js) Stack Web-Based Themefied Education Platform For Placement Preparation
+- [^12]: https://kuey.net/index.php/kuey/article/view/3035 Mern(Mongodb , Express-Js, React-Js, Node-Js) Stack Web-Based Themefied Education Platform For Placement Preparation
 
-[^13]: https://dev.to/mark_kibuthu/embracing-react-trends-innovations-and-best-practices-for-modern-web-development-4db5 Embracing React: Trends, Innovations, and Best Practices for Modern Web Development
+- [^13]: https://dev.to/mark_kibuthu/embracing-react-trends-innovations-and-best-practices-for-modern-web-development-4db5 Embracing React: Trends, Innovations, and Best Practices for Modern Web Development
 
-[^14]: https://www.simform.com/blog/react-performance/ React Performance – 13 Ways to Optimize Performance of your React App
+- [^14]: https://www.simform.com/blog/react-performance/ React Performance – 13 Ways to Optimize Performance of your React App
 
-[^15]: https://www.grafiati.com/en/literature-selections/react-js/journal/ Journal articles on the topic 'React.js'
+- [^15]: https://www.grafiati.com/en/literature-selections/react-js/journal/ Journal articles on the topic 'React.js'
 
-[^16]: https://www.guvi.in/blog/react-project-ideas-for-developers/ 10 Best React Project Ideas for Developers [with Source Code]
+- [^16]: https://www.guvi.in/blog/react-project-ideas-for-developers/ 10 Best React Project Ideas for Developers [with Source Code]
 
-[^17]: https://www.contentful.com/blog/react-node-js/ Using React with Node.js
+- [^17]: https://www.contentful.com/blog/react-node-js/ Using React with Node.js
 
-[^18]: https://www.geeksforgeeks.org/reactjs/reactjs-projects/ 90+ React Projects with Source Code [2025]
+- [^18]: https://www.geeksforgeeks.org/reactjs/reactjs-projects/ 90+ React Projects with Source Code [2025]
 
-[^19]: https://ijgst.com/admin/uploadss/3 IJGSTAmir Khan Sk and J Jerone Gonsalvez.pdf
+- [^19]: https://ijgst.com/admin/uploadss/3 IJGSTAmir Khan Sk and J Jerone Gonsalvez.pdf
 
-[^20]: https://www.awwwards.com/websites/react/ React Websites
+- [^20]: https://www.awwwards.com/websites/react/ React Websites
